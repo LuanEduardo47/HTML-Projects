@@ -1,8 +1,10 @@
 @charset "UTF-8";
 
- h1 {
+h1 {
     font-family: Raleway;
     font-size: 30pt;
     color:brown;
     text-shadow: 2px 2px 2px slategray;
+    border: 5px solid brown;
+    padding: 4px;
     }
