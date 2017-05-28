@@ -7,4 +7,39 @@ h1 {
     text-shadow: 2px 2px 2px slategray;
     border: 5px solid brown;
     padding: 4px;
-    }
+}
+
+a:link {
+    font-family: raleway;
+    color: chocolate;
+    font-style: italic;
+    font-size: 15px;
+}
+
+a:visited {
+    font-family: raleway;
+    color: brown;
+    font-style: italic;
+    font-size: 15px;
+}
+
+a:hover {
+    font-family: raleway;
+    color: crimson;
+    font-style: italic;
+    font-size: 15px;
+}
+
+a:act {
+    font-family: raleway;
+    color: darkred;
+    font-style: italic;
+    font-size: 15px;
+}
+
+img.github {
+    float: left;
+    width: 70px;
+    height: 70px;
+    border: 0px; 
+}
