@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    background-color: #2e2e2e;
+}
+
+#titulo_1 {
+    font-family: roboto;
+    color: red;
+    text-shadow: 1px 1px 1px black;
+}
+
+h1.titulo_2 {
+    font-family: raleway;
+    color: blue;
+    text-shadow: 1px 1px 1px black;
+}
+
+#paragrafo_1 {
+    font-family: arial;
+    color: dimgray;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+
+p.paragrafo_2 {
+    font-family: arial;
+    color: lightslategrey;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+}
